@@ -1,4 +1,4 @@
 # MATLAB_Codes
-Includes my paper's implementation
+Includes VME method implementation
 Variational Mode Extraction Matlab Code Implementation (VME.m vme.m)
 
